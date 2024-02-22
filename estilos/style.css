@@ -1,0 +1,42 @@
+
+    body {
+        color: white;
+        /*background: #1E90FF; azul*/
+        background: #008B8B;
+        /*background: #A52A2A;*/
+        font-family: "Montserrat", sans-serif;
+    }
+
+    h1{
+        font-size: 65px;
+        line-height: 60px;
+    }
+                
+    h1 strong {
+        /*color: #87CEFA; azul*/
+        color:#48D1CC;
+        /*color: #800000;*/
+    }
+
+    header ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+    header ul{
+        list-style: none;
+    }
+
+    header ul li {
+        display: inline;
+    }
+
+    header, main, footer{
+
+        border: dotted #008B8B;
+        margin: 0 100px 0 100px;
+    }
+
+    footer{
+        color: 	#48D1CC;
+    }
